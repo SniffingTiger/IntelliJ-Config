@@ -10,4 +10,7 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\e139206\Desktop" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
+  </component>
 </application>
